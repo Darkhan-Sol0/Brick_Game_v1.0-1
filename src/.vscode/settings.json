@@ -1,0 +1,30 @@
+{
+  "files.associations": {
+    "array": "c",
+    "string_view": "c",
+    "format": "c",
+    "initializer_list": "c",
+    "span": "c",
+    "tetris.h": "c",
+    "tetrisui.h": "c",
+    "stdio.h": "c",
+    "chrono": "c",
+    "functional": "c",
+    "charconv": "c",
+    "compare": "c",
+    "ratio": "c",
+    "tuple": "c",
+    "type_traits": "c",
+    "utility": "c",
+    "variant": "c",
+    "tetrisfield.h": "c",
+    "time.h": "c",
+    "defines.h": "c",
+    "objects.h": "c",
+    "ncurses.h": "c",
+    "fsm.h": "c",
+    "test_main.h": "c",
+    "wchar.h": "c",
+    "complex": "c"
+  }
+}
